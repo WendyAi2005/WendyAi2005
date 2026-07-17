@@ -5,7 +5,7 @@
 
 ｜建模师，二次元道具师 ， 摄影
 
-（┏ (^ω^)=本体是一只来自瑞典🇸🇪的宜家鲨鲨🦈，暂居中国大陆🇨🇳，喜欢啃食🍽️家具🛋️，o(*////▽////*)q，当然，如果给我投喂😋麦门薯条🍟，可以解锁🔓一个大惊喜🎊，比如给你抓一只海鸥🦤？）
+（┏ (^ω^)=本体是一只来自瑞典🇸🇪的宜家鲨鲨🦈，暂居宛平南路600号🏠，喜欢啃食🍽️家具🛋️，o(*////▽////*)q，当然，如果给我投喂😋麦门薯条🍟，可以解锁🔓一个大惊喜🎊，比如给你抓一只海鸥🦤？）
 
 Mechanical Engineering Student × Cosplay Prop Maker × 3D Modeler × Cosplayer  
 Building things that run, reproduce, and look good ✨
@@ -64,14 +64,14 @@ Building things that run, reproduce, and look good ✨
 `摄影` `后期`  
 
 `PLC` `JLC EDA`  
-`业余无线电`（A类操作证）
+`📡业余无线电（A类操作证）呼号BI7AWY`
 
 ---
 
 ### 🌱 跨学科兴趣方向 / Interdisciplinary Interests
 
 **工程与科学**  
-电气 · 天文 · 地理 · 生物
+机械电气 · 天文 · 地理 · 生物
 
 **医学相关**  
 药物动力学 · 感染医学 · 检验医学 · 精神医学 · 脑科学
