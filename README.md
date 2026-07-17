@@ -1,25 +1,25 @@
 ## Hi there 👋
 
-**Wendy Ai**（艾玮晔）  
-机械狗一枚 ⚙️｜二次元道具师 · 建模师 · 摄影爱好者  
+**Wendy Ai**（Weiye Ai）  
+机械狗一枚 ⚙️｜二次元道具师 · 建模师 · 摄影 · 本人出cos  
 
-Mechanical Engineering Student × Cosplay Prop Maker × 3D Modeler  
+Mechanical Engineering Student × Cosplay Prop Maker × 3D Modeler × Cosplayer  
 Building things that run, reproduce, and look good ✨
 
 ---
 
 ### 🔭 当前在做的事 / What I’m up to
 
-- 🌀 Snap-through TENG 低风速能量采集（*MSSP* 二作，审稿中）
 - 🧠 COMSOL + MATLAB 自动化仿真
 - 🪶 拓扑优化 & AI 辅助轻量化
-- 📡 自供能管道监测装置
-- 🎀 大型可动道具设计与制作（弓箭、双形态可折叠道具等）
-- 📸 摄影 & 渲染出图
+- 🎀 大型可动道具设计与制作
+- 📸 摄影（cos漫展摄影 / 风景摄影）
+- 🎬 Blender 建模 · 渲染 · 机械动画
+- 👗 本人出 cos
 
 ---
 
-### 🏆 竞赛获奖 / Awards
+### 🏆 竞赛获奖 / Competition Awards
 
 **国家级**
 - 🥇 第十八届“高教杯”全国大学生先进成图技术与产品信息建模创新大赛  
@@ -37,32 +37,47 @@ Building things that run, reproduce, and look good ✨
 
 ---
 
-### 🛠️ 技能树 / Skills
+### 🎓 奖学金与荣誉 / Scholarships & Honors
 
-**工程向**  
-`SolidWorks` `Altair Inspire` `COMSOL` `MATLAB` `AutoCAD` `PLC`
-
-**二次元 / 创作向**  
-`Blender` `道具结构设计` `可动机构` `3D打印` `摄影` `后期`
-
-**其他**  
-`业余无线电` 📡 `JLC EDA`
+- 🏅 湖南工程学院创新奖学金（本科生组）**一等奖**
+- 🏅 湖南工程学院**三好学生**
+- 🏅 湖南工程学院**二等奖学金**
 
 ---
 
-### 🌱 兴趣方向 / Interests
+### 🛠️ 技能 / Skills
 
-自供电传感 · 能量采集 · 多物理场仿真  
-二次元 · 道具制作 · 角色建模 · 摄影出图  
-药物机制 · 精神医学 · ADHD/ASD 相关话题  
-把脑海里的东西做成能摸、能动、能拍的实体 🛠️✨
+`SolidWorks` `Altair Inspire` `COMSOL` `MATLAB`  
+`AutoCAD` `Blender`（建模 / 渲染 / 机械动画）  
 
----
+`3D打印` `可动机构设计`  
+`摄影` `后期`  
 
-### 📫 找到我 / Find me
-
-能量采集、仿真、轻量化、道具结构、建模渲染，或者二次元相关，都欢迎来聊天～
+`PLC` `JLC EDA`  
+`业余无线电`（A类操作证）
 
 ---
 
-*Last updated: July 2026*
+### 🌱 跨学科兴趣方向 / Interdisciplinary Interests
+
+**工程与科学**  
+电气 · 天文 · 地理 · 生物
+
+**医学相关**  
+药物动力学 · 感染医学 · 检验医学 · 精神医学 · 脑科学
+
+**创作向**  
+二次元 · 道具制作 · 角色建模 · 本人出cos  
+cos漫展摄影 · 风景摄影 · Blender 机械动画
+
+喜欢把不同学科的东西揉在一起 🛠️✨
+
+---
+
+### 📫 找到我 / Find me（扩列）
+
+重点扩二次元朋友～  
+也欢迎多元友好的跨学科研究者（能过图灵测试那种）来聊天。
+医学/脑科学相关都可以聊。
+
+---
