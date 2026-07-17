@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 **Wendy Ai**（Weiye Ai）  
-机械狗一枚 ⚙️｜二次元道具师 · 建模师 · 摄影 
+机械设计制造及其自动化 ⚙️｜二次元道具师 · 建模师 · 摄影
+（┏ (^ω^)=本体是一只来自瑞典🇸🇪的宜家鲨鲨🦈，暂居中国大陆🇨🇳，喜欢啃食🍽️家具🛋️，o(*////▽////*)q，当然，如果给我投喂😋麦门薯条🍟，可以解锁🔓一个大惊喜🎊，比如给你抓一只海鸥🦤？）
 
 Mechanical Engineering Student × Cosplay Prop Maker × 3D Modeler × Cosplayer  
 Building things that run, reproduce, and look good ✨
