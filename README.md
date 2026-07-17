@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 **Wendy Ai**（Weiye Ai）  
-机械狗一枚 ⚙️｜二次元道具师 · 建模师 · 摄影 · 本人出cos  
+机械狗一枚 ⚙️｜二次元道具师 · 建模师 · 摄影 
 
 Mechanical Engineering Student × Cosplay Prop Maker × 3D Modeler × Cosplayer  
 Building things that run, reproduce, and look good ✨
@@ -15,7 +15,6 @@ Building things that run, reproduce, and look good ✨
 - 🎀 大型可动道具设计与制作
 - 📸 摄影（cos漫展摄影 / 风景摄影）
 - 🎬 Blender 建模 · 渲染 · 机械动画
-- 👗 本人出 cos
 
 ---
 
@@ -67,9 +66,8 @@ Building things that run, reproduce, and look good ✨
 药物动力学 · 感染医学 · 检验医学 · 精神医学 · 脑科学
 
 **创作向**  
-二次元 · 道具制作 · 角色建模 · 本人出cos  
+二次元 · 道具制作 · 角色建模 · cn：雯雨  
 cos漫展摄影 · 风景摄影 · Blender 机械动画
-
 喜欢把不同学科的东西揉在一起 🛠️✨
 
 ---
