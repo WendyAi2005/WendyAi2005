@@ -1,16 +1,68 @@
 ## Hi there 👋
 
-<!--
-**WendyAi2005/WendyAi2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Wendy Ai**（艾玮晔）  
+机械狗一枚 ⚙️｜二次元道具师 · 建模师 · 摄影爱好者  
 
-Here are some ideas to get you started:
+Mechanical Engineering Student × Cosplay Prop Maker × 3D Modeler  
+Building things that run, reproduce, and look good ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔭 当前在做的事 / What I’m up to
+
+- 🌀 Snap-through TENG 低风速能量采集（*MSSP* 二作，审稿中）
+- 🧠 COMSOL + MATLAB 自动化仿真
+- 🪶 拓扑优化 & AI 辅助轻量化
+- 📡 自供能管道监测装置
+- 🎀 大型可动道具设计与制作（弓箭、双形态可折叠道具等）
+- 📸 摄影 & 渲染出图
+
+---
+
+### 🏆 竞赛获奖 / Awards
+
+**国家级**
+- 🥇 第十八届“高教杯”全国大学生先进成图技术与产品信息建模创新大赛  
+  轻量化设计与AI应用赛道 · **一等奖（第一完成人）**
+
+**省级**
+- 🥈 第八届湖南省大学生工程实践与创新能力大赛  
+  新能源车赛道 · **二等奖（第二完成人）**
+- 🥈 第十届全国大学生能源经济学术创意大赛（湖南赛区）  
+  “零碳行者”人体能量采集可穿戴设备 · **二等奖（第三完成人）**
+- 🥉 湖南省大学生节能减排社会实践与科技竞赛  
+  “潜能·管见”磁力耦合自供能智慧管道监测装置 · **三等奖（第一完成人）**
+- 🥉 湖南省大学生先进成图技术与产品信息建模创新大赛  
+  机械类个人赛 · **三等奖（第一完成人）**
+
+---
+
+### 🛠️ 技能树 / Skills
+
+**工程向**  
+`SolidWorks` `Altair Inspire` `COMSOL` `MATLAB` `AutoCAD` `PLC`
+
+**二次元 / 创作向**  
+`Blender` `道具结构设计` `可动机构` `3D打印` `摄影` `后期`
+
+**其他**  
+`业余无线电` 📡 `JLC EDA`
+
+---
+
+### 🌱 兴趣方向 / Interests
+
+自供电传感 · 能量采集 · 多物理场仿真  
+二次元 · 道具制作 · 角色建模 · 摄影出图  
+药物机制 · 精神医学 · ADHD/ASD 相关话题  
+把脑海里的东西做成能摸、能动、能拍的实体 🛠️✨
+
+---
+
+### 📫 找到我 / Find me
+
+能量采集、仿真、轻量化、道具结构、建模渲染，或者二次元相关，都欢迎来聊天～
+
+---
+
+*Last updated: July 2026*
